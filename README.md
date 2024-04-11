@@ -10,8 +10,8 @@ Algorithms:
 
 1. Naive Algorithm
 
-2. Local Ratio Feedback Vertex Set Algorithm ($O(V^3)$)
+2. Local Ratio Feedback Vertex Set Algorithm: $O(V^3)$
 
-3. Improved Local Ratio Feedback Vertex Set Algorithm ($O(V^3C)$)
+3. Improved Local Ratio Feedback Vertex Set Algorithm: $O(V^3C)$
 
-4. Greedy Algorithm ($O(V^3)$)
+4. Greedy Algorithm: $O(V^3)$
