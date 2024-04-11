@@ -8,7 +8,7 @@ In this project, we will be looking at approximation algorithms to find the mini
 
 Algorithms:
 
-1. Naive Algorithm
+1. Naive Algorithm $O(2^V(V+E))$
 
 2. Local Ratio Feedback Vertex Set Algorithm: $O(V^3)$
 
