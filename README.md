@@ -15,3 +15,14 @@ Algorithms:
 3. Improved Local Ratio Feedback Vertex Set Algorithm: $O(V^3C)$
 
 4. Greedy Algorithm: $O(V^3)$
+
+References:
+
+1. Bafna, V., Berman, P., & Fujito, T. (1999). A 2-approximation algorithm for the undirected feedback vertex set problem. *SIAM Journal on Discrete Mathematics*, *12*(3), 289-297.
+
+2. GeeksforGeeks. (2022, September 15). Print all the cycles in an undirected graph. GeeksforGeeks. [Link](https://www.geeksforgeeks.org/print-all-the-cycles-in-an-undirected-graph/)
+
+3. Ravi, R. (2005, October 10). Minimum Feedback Vertex Set. Carnegie Mellon University. [Link](https://www.cs.cmu.edu/afs/cs/academic/class/15854-f05/www/scribe/lec9.pdf)
+
+4. Wikimedia Foundation. (2023, December 11). Feedback vertex set. Wikipedia. [Link](https://en.wikipedia.org/wiki/Feedback_vertex_set)
+
